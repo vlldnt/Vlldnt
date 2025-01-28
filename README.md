@@ -1,7 +1,13 @@
 # Nice to meet you :wave: , I'm Adrien and I'm here to explore aspects of the code :flashlight:
-Aspiring 
+```
+'''
+I am in training to become a future web developer at the Holberton School.
+'''
+```
 
-##  Technologies 
+
+
+###  Technologies 
 <br>
 <p align="center">
     <img src="https://img.shields.io/badge/APPLE-000000?logo=apple&logoColor=white&style=for-the-badge" alt="Apple badge">
@@ -28,7 +34,7 @@ Aspiring
     <img src="https://img.shields.io/badge/SHELL SCRIPT-000000?logo=gnu-bash&logoColor=white&style=for-the-badge" alt="Shell Script badge">
 </p>
 
-## Some statistics
+### Some statistics
 
 <br>
 <p align="center">
@@ -39,3 +45,7 @@ Aspiring
  <p align="center">
      <a href="https://github.com/anuraghazra/github-readme-stats" style="dislay: block;"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=vlldnt&bg_color=00000000&hide_border=true&hide_title=true&hide=contribs" alt="GitHub statistics"></a>
   </p>
+
+### Future
+
+`I'd like to continue next year so 'im looking for a work-study training program to specialize in Cybersecurity next year`
