@@ -48,4 +48,4 @@ I am in training to become a future web developer at the Holberton School.
 
 ### Future
 
-`I'd like to continue next year so 'im looking for a work-study training program to specialize in Cybersecurity next year`
+`I'd like to continue next year so i'm looking for a work-study training program to specialize in Cybersecurity`
